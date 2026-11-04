@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Create account · Electronic</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="icon" type="image/svg+xml" href="assets/icons/agent-face.svg">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/chat.css">
+</head><body>
+<header id="site-header" class="topbar"></header>
+<main class="wrap">
+<h1>Create account</h1>
+<form class="stack" id="authForm" data-mode="register">
+<label>Name<input id="name" autocomplete="name"></label>
+<label>Email<input id="email" type="email" required autocomplete="email"></label>
+<label>Password (6+ characters)<input id="password" type="password" minlength="6" required autocomplete="new-password"></label>
+<p id="authErr" class="err" role="alert"></p>
+<button class="btn">Create account</button>
+<p class="muted">Have an account? <a href="login.html">Log in</a></p></form>
+</main>
+<script src="js/api.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/chatbot.js"></script>
+</body></html>

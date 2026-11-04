@@ -1,0 +1,7 @@
+#cart,#summary,#orders{max-width:720px}
+.line-item{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
+.rm{background:none;border:0;color:var(--err);cursor:pointer;font:inherit;margin-left:12px}
+.total{display:flex;justify-content:space-between;font-weight:700;font-size:1.1rem;padding:16px 0}
+.order{border:1px solid var(--line);border-radius:16px;padding:16px 22px;margin-bottom:16px}
+.order h3{display:flex;justify-content:space-between;margin:0 0 6px}
+.li{display:flex;align-items:center;gap:12px}

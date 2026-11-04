@@ -1,0 +1,24 @@
+.pagehead{display:flex;justify-content:space-between;align-items:flex-start;margin:48px 0 28px;gap:16px}
+.pagehead h1{margin-bottom:8px}.pagehead .sub{margin:0;max-width:480px}
+.cartchip{position:relative;width:52px;height:52px;flex:none;border-radius:14px;background:var(--tile);display:grid;place-items:center;text-decoration:none}
+.cartchip .badge{position:absolute;top:-6px;right:-6px}
+#tabs{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:28px}
+.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:10px 24px;font:inherit;font-size:.9rem;color:var(--mut);cursor:pointer}
+.chip[aria-selected=true]{background:var(--blue);border-color:var(--blue);color:#fff;font-weight:500}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:24px}
+.card{border:1px solid var(--line);border-radius:16px;padding:20px;display:flex;gap:22px;background:#fff}
+.tile{width:150px;height:150px;flex:none;border-radius:12px;background:var(--tile);display:grid;place-items:center;font-size:4rem;text-decoration:none}
+.info{flex:1;display:flex;flex-direction:column;min-width:0}
+.info h3{margin:0;font-size:1.05rem;font-weight:600}
+.price{font-size:1.2rem;font-weight:700;margin:10px 0 8px}
+.stock{display:flex;align-items:center;gap:8px;color:var(--mut);font-size:.85rem;margin:0}
+.stock i{width:8px;height:8px;border-radius:50%;background:var(--ok)}.stock.out i{background:var(--err)}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;gap:8px;padding-top:12px}
+.more{color:var(--mut);font-size:.85rem;text-decoration:none;display:flex;gap:6px;align-items:center}
+.add{display:flex;align-items:center;gap:6px;border:1px solid var(--ink);background:#fff;border-radius:999px;padding:8px 14px;font:inherit;font-size:.78rem;font-weight:500;cursor:pointer}
+.add:disabled{opacity:.4;cursor:not-allowed}
+#detail{display:grid;grid-template-columns:minmax(220px,360px) 1fr;gap:48px;margin-top:48px;align-items:start}
+#detail .big{aspect-ratio:1;border-radius:20px;background:var(--tile);display:grid;place-items:center;font-size:8rem}
+@media (max-width:480px){.card{flex-direction:column}.tile{width:100%}#grid{grid-template-columns:1fr}#detail{grid-template-columns:1fr}}
+.tile{padding:8px;overflow:hidden}
+#detail .big{padding:20px}#detail .big img{width:100%;height:auto;mix-blend-mode:multiply}
