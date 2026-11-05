@@ -37,7 +37,8 @@ The system also incorporates a confirmation-based ordering workflow, ensuring th
 ### AI Customer Support Chatbot
 
 <!-- Insert chatbot screenshot here -->
-<img width="1920" height="940" alt="multilin" src="https://github.com/user-attachments/assets/6a37121e-18e1-41ca-ba0a-1ba4c479b672" />
+<img width="1920" height="948" alt="chatbot" src="https://github.com/user-attachments/assets/89f4c101-accd-4bad-a655-fdc92f7b580c" />
+
 
 
 
@@ -49,14 +50,15 @@ The system also incorporates a confirmation-based ordering workflow, ensuring th
 
 <!-- Insert multilingual chatbot screenshot here -->
 
-<img width="1920" height="948" alt="chatbot" src="https://github.com/user-attachments/assets/e07410bd-acb6-4cdc-a072-322b69a2aa48" />
-*Figure 3: Customer interaction across supported languages.*
+<img width="1920" height="946" alt="multilingual_system" src="https://github.com/user-attachments/assets/1107ea99-e68e-41b5-971c-23f00e22d0b5" />
+
 
 ### Order Management Through AI
 
 <!-- Insert order confirmation screenshot here -->
 
-<img width="1920" height="954" alt="order_placement" src="https://github.com/user-attachments/assets/17e39b7d-7d56-402a-8c4f-334f33d2ac4d" />
+
+
 
 
 *Figure 4: AI-assisted order drafting and customer confirmation.*
