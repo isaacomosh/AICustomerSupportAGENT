@@ -1,3 +1,4 @@
+<img width="1920" height="942" alt="order_confirmation" src="https://github.com/user-attachments/assets/7687453b-0a17-4b3a-9ff5-00c0977678d3" />
 # AI Customer Support Agent for E-Commerce
 
 An intelligent, multilingual customer support system built for an electronic store, powered by **Retrieval-Augmented Generation (RAG), Google Gemini, Flask, and ChromaDB.**
@@ -58,6 +59,7 @@ The system also incorporates a confirmation-based ordering workflow, ensuring th
 <!-- Insert order confirmation screenshot here -->
 
 
+<img width="1920" height="952" alt="conf" src="https://github.com/user-attachments/assets/b918deb6-acc8-4535-9d97-042c419065ab" />
 
 
 
