@@ -27,7 +27,10 @@ The system also incorporates a confirmation-based ordering workflow, ensuring th
 ### Customer Interface
 
 <!-- Insert homepage screenshot here -->
-![Store Homepage](docs/images/homepage.png)
+<img width="1920" height="952" alt="homepageA" src="https://github.com/user-attachments/assets/3cccda5d-f475-4fe8-9801-10d83edf4b68" />
+
+
+
 
 *Figure 1: Electronic store customer interface.*
 
