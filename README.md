@@ -380,9 +380,8 @@ The goal is to demonstrate how AI systems can be integrated into real-world busi
 
 ---
 
-## Author
 
-**Your Name**
+ISAAC OMONDI OCHIENG 
 
 Software Developer | AI & Backend Engineering
 
