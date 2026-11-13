@@ -385,7 +385,7 @@ ISAAC OMONDI OCHIENG
 
 Software Developer | AI & Backend Engineering
 
-[GitHub](https://github.com/isaacomosh) ·
+[GitHub](https://github.com/isaacomosh) 
 
 ---
 
